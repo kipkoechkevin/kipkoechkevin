@@ -3,6 +3,7 @@ Hi there 👋
 I'm a PHP Laravel Developer working in Nairobi, Kenya 🇰🇪.
 
 NOW
+
 ✨ Actively working on laravel projects;
 
 🤝 Available to collab and build something great.
