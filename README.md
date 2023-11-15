@@ -4,7 +4,7 @@ Hi 👋 My name is Kevin Kipkoech
 A Web Artisan
 -----------
 
-I'm a Backend Developer working in Nairobi, Kenya 🇰🇪. Currently working at WPP-Scangroup
+I'm a Backend Developer working in Nairobi, Kenya currently working at [Ogilvy Africa](https://ogilvy.africa/)
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [kevin.kipkoech@unwir.co](mailto:kevin.kipkoech@unwir.co)
