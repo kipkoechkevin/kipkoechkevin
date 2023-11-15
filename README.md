@@ -7,7 +7,6 @@ A Web Artisan
 I'm a Backend Developer working in Nairobi, Kenya 🇰🇪. Currently working at WPP-Scangroup
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [Kevin Koech](http://kevinkoech.co.ke)
 * ✉️  You can contact me at [kevin.kipkoech@unwir.co](mailto:kevin.kipkoech@unwir.co)
 * 🧠  I'm learning Vue, Nuxt, Strapi and Laravel + Inertia
 * ⚡  Won 1 Warzone Solos in Verdensk 🎮
