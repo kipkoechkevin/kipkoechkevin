@@ -7,7 +7,7 @@ A Web Artisan
 I'm a Backend Developer working in Nairobi, Kenya currently working at [Ogilvy Africa](https://ogilvy.africa/)
 
 * 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [kevin.kipkoech@unwir.co](mailto:kevin.kipkoech@unwir.co)
+* ✉️  You can contact me at [Kevini](mailto:kip.kevin.kk@gmail.com)
 * 🧠  I'm learning Vue, Nuxt, Strapi and Laravel + Inertia
 * ⚡  Won 1 Warzone Solos in Verdensk 🎮
 
