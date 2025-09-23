@@ -7,7 +7,7 @@ A Web Artisan
 I'm a Backend Developer working in Nairobi, Kenya currently working at [Ogilvy Africa](https://ogilvy.africa/)
 
 * 🌍  I'm based in Nairobi
-* ✉️  Building [ConsultClock](consultclock.com)
+* 👷🏾‍♂️  Building [ConsultClock](consultclock.com)
 * 🧠  I'm learning Vue, Nuxt, Strapi and Laravel + Inertia
 * ⚡  Won 1 Warzone Solos in Verdensk 🎮
 
